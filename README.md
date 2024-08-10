@@ -1,2 +1,4 @@
 # Calculator-App
-Calculator-App is a simple tool which performs basic arithmetic calculations like Addition, Subtraction, Multiplication and Division.
+This is a simple Calculator App with a dark and light theme toggle. The application provides basic arithmetic operations and a clean, responsive UI.
+
+
